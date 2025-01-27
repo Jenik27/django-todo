@@ -278,3 +278,7 @@ django_todo/media/
 .env
 .envs/*
 !.envs/.local/
+gcp-creds.json
+
+# GCP credentials
+**/gcp-creds.json
